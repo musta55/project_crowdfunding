@@ -17,8 +17,6 @@
 
 REACT_APP_PRIVATE_KEY= <br>
 REACT_APP_ALCHEMY_API_URL= <br>
-REACT_APP_PINATA_KEY= <br>
-REACT_APP_PINATA_SECRET= <br>
 
 </p>
 <h2>Please hit a star!! </h2>
