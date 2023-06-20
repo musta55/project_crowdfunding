@@ -20,7 +20,4 @@ REACT_APP_ALCHEMY_API_URL= <br>
 
 </p>
 <h2>Please hit a star!! </h2>
-<footer>
-  <p>Author: Javascript mastery<br>
-  <a href="https://www.youtube.com/@javascriptmastery">Javascript mastery</a></p>
-</footer>
+
